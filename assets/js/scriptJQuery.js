@@ -4,6 +4,7 @@ let selectedStudentID = -1;
 let currentSearchTerm = "";
 const baseURL = "https://studentinfoapi-djtm.onrender.com/api/students";
 
+
 const $tbody = $("#student-data");
 const $searchForm = $("#search-form");
 const $searchInput = $("#search-input");
